@@ -4,15 +4,12 @@ I'm a leader in tech, currently **Head of Data Science in AirAsia** working on e
 
 ---
 
-### 🚀 Distributed Systems
-> Distributed systems I have designed and open-sourced
+🚀 **Distributed Systems** I have designed and open-sourced
 
 * [emitter-io/emitter](https://github.com/emitter-io/emitter) - high performance, distributed and low latency publish-subscribe platform
 * [kelindar/talaria](https://github.com/kelindar/talaria) - distributed, highly available, and low latency time-series database for Presto
 
-
-### 📦 Golang Libraries
-> Collection of various libraries I made to help me in building software faster or explore a certain idea
+📦 **Golang Libraries** I made to help me in building software faster or explore a certain idea
 
 * [kelindar/binary](https://github.com/kelindar/binary) - generic and fast binary serializer for go
 * [kelindar/tile](https://github.com/kelindar/tile) - 2D grid engine, built with data and cache friendly ways, includes pathfinding and observers
@@ -27,8 +24,7 @@ I'm a leader in tech, currently **Head of Data Science in AirAsia** working on e
 * [emitter-io/stats](github.com/emitter-io/stats) - high-performance library for stats and metric aggregation
 * [emitter-io/config](github.com/emitter-io/config) - library for hierarchical config management
 
-### 🧪 Experiments
-> Some of random experiments I have done
+🧪 **Experiments** in which I tried with various ideas
 
 * [kelindar/etop](https://github.com/kelindar/etop) - command-line utility for emitter.io cluster status
 * [kelindar/spiral](https://github.com/kelindar/spiral) - procedurally generating a spiral galaxy in go
@@ -40,8 +36,7 @@ I'm a leader in tech, currently **Head of Data Science in AirAsia** working on e
 * [manycore/matmul](https://github.com/manycore/matmul) - matrix multiplication benchmark suite for parallel performance measurement
 * [manycore/harvester](https://github.com/manycore/harvester) - operating system and hardware performance counter collector utility
 
-### 🎨 Emitter Demos
-> Various demos for emitter.io platform
+🎨 **Emitter Demos** I have prepared for the project
 
 * [chat](https://github.com/kelindar/demo-chat) - building a chat with emitter
 * [actor](https://github.com/kelindar/emitter-actor) - distributed actor model with emitter
