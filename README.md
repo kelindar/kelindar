@@ -10,8 +10,9 @@ I'm a leader in tech, currently **Head of Data Science in AirAsia** working on e
 
 🚀 **Distributed Systems** I have designed and open-sourced
 
-* [emitter-io/emitter](https://github.com/emitter-io/emitter) - high performance, distributed and low latency publish-subscribe platform
-* [kelindar/talaria](https://github.com/kelindar/talaria) - distributed, highly available, and low latency time-series database for Presto
+* [![emitter](https://img.shields.io/github/stars/emitter-io/emitter?style=social) emitter-io/emitter](https://github.com/emitter-io/emitter)  - high performance, distributed and low latency publish-subscribe platform
+* [![emitter](https://img.shields.io/github/stars/kelindar/talaria?style=social) kelindar/talaria](https://github.com/kelindar/talaria) - distributed, highly available, and low latency time-series database for Presto
+
 
 📦 **Golang Libraries** I made to help me in building software faster or explore a certain idea
 
