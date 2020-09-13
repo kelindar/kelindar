@@ -46,3 +46,5 @@ I'm a leader in tech, currently **Head of Data Science in AirAsia** working on e
 * [share](https://github.com/kelindar/emitter-share) - how to use shared subscriptions in emitter
 * [iss](https://github.com/kelindar/iss) - tracking international space station in real-time
 * [presence](https://github.com/kelindar/demo-presence) - demo of the channel presence for emitter
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kelindar.kelindar)
