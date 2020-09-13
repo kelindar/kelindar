@@ -31,12 +31,21 @@ I'm a leader in tech, currently **Head of Data Science in AirAsia** working on e
 * [kelindar/etop](https://github.com/kelindar/etop) - command-line utility for emitter.io cluster status
 * [kelindar/spiral](https://github.com/kelindar/spiral) - procedurally generating a spiral galaxy in go
 * [kelindar/markov](https://github.com/kelindar/markov) - experimenting with markov-chain procgen in go
+* [kelindar/pmml2lua](https://github.com/kelindar/pmml2lua) - trying to convert PMML decision trees into LUA code
+* [kelindar/spike-box](https://github.com/kelindar/spike-box) - what if we can data-bind js/DOM transparently over the network?
+* [kelindar/misakai-baker](https://github.com/kelindar/misakai-baker) - static site generator for C# / .Net people
+* [manycore/dashboard](https://github.com/manycore/manycore-dashboard) - profiling your parallelized app by categorizing issues and visually browsing them
+* [manycore/matmul](https://github.com/manycore/matmul) - matrix multiplication benchmark suite for parallel performance measurement
+* [manycore/harvester](https://github.com/manycore/harvester) - operating system and hardware performance counter collector utility
 
 ### Emitter Demos
 > Various demos for emitter.io platform
 
+* [chat](https://github.com/kelindar/demo-chat) - building a chat with emitter
 * [actor](https://github.com/kelindar/emitter-actor) - distributed actor model with emitter
 * [client-server](https://github.com/kelindar/emitter-client-server) - how to create a client/server application with emitter
 * [platformer](https://github.com/kelindar/emitter-platformer) - making an online platformer with emitter
 * [retain](https://github.com/kelindar/emitter-retain) - how to use message retention in emitter
 * [share](https://github.com/kelindar/emitter-share) - how to use shared subscriptions in emitter
+* [iss](https://github.com/kelindar/iss) - tracking international space station in real-time
+* [presence](https://github.com/kelindar/demo-presence) - demo of the channel presence for emitter
