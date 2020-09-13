@@ -2,7 +2,9 @@
 
 I'm a leader in tech, currently **Head of Data Science in AirAsia** working on experimentation and blockchain technologies. Prior to AirAsia, I was working as a Principal Engineer in Grab, the super app of South East Asia where we built Product Insights & Experimentation Platform amongst other things. I also obtained a PhD in Computer Science and Human-Computer Interaction with Trinity College Dublin & IBM Research, and worked as an engineer at various successful companies in Europe, building things like online gaming platforms, autonomous helicopters, or particle/matter collision simulators!
 
-<h2 align="center"></h2>
+<p align="center">
+    <img height="96" src="./.assets/gopher.gif">
+</p>
 
 🚀 **Distributed Systems** I have designed and open-sourced
 
