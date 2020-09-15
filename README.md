@@ -23,11 +23,11 @@ I'm a leader in tech, currently **Head of Data Science in AirAsia** working on e
 * [kelindar/ecs](https://github.com/kelindar/ecs) - high-performance entity component system in pure go
 * [kelindar/event](https://github.com/kelindar/event) - simple internal event bus for go applications
 * [kelindar/lua](https://github.com/kelindar/lua) - wrapper around LUA script executor for long-running scripts
-* [kelindar/tcp](github.com/kelindar/tcp) - simple TCP server in go
+* [kelindar/tcp](https://github.com/kelindar/tcp) - simple TCP server in go
 * [kelindar/process](https://github.com/kelindar/process) - go library for process usage retrieval
 * [emitter-io/address](https://github.com/emitter-io/address) - go library providing a set of utilities for dealing with network addressing
-* [emitter-io/stats](github.com/emitter-io/stats) - high-performance library for stats and metric aggregation
-* [emitter-io/config](github.com/emitter-io/config) - library for hierarchical config management
+* [emitter-io/stats](https://github.com/emitter-io/stats) - high-performance library for stats and metric aggregation
+* [emitter-io/config](https://github.com/emitter-io/config) - library for hierarchical config management
 
 🧪 **Experiments** in which I tried with various ideas
 
