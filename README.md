@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Roman!
 
-I'm a leader in tech, currently **Head of Data Science in AirAsia** working on experimentation and blockchain technologies. Prior to AirAsia, I was working as a Principal Engineer in Grab, the super app of South East Asia where we built Product Insights & Experimentation Platform amongst other things. I also obtained a PhD in Computer Science and Human-Computer Interaction with Trinity College Dublin & IBM Research, and worked as an engineer at various successful companies in Europe, building things like online gaming platforms, autonomous helicopters, or particle/matter collision simulators!
+I'm a leader in tech, currently **Staff Engineer in Careem** working on experimentation and optimization. Prior to Careem, I worked as Head of Data Science in AirAsia and as a Principal Engineer in Grab, the super app of South East Asia where we built Product Insights & Experimentation Platforms amongst other things. I also obtained a PhD in Computer Science and Human-Computer Interaction with Trinity College Dublin & IBM Research, and worked as an engineer at various successful companies in Europe, building things like online gaming platforms, autonomous helicopters, or particle/matter collision simulators!
 
 <p align="center">
     <img height="96" src="https://raw.githubusercontent.com/kelindar/kelindar/master/.assets/gopher.gif">
