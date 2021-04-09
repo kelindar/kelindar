@@ -16,6 +16,7 @@ I'm a leader in tech, currently **Staff Engineer in Careem** working on experime
 
 📦 **Golang Libraries** I made to help me in building software faster or explore a certain idea
 
+* [kelindar/async](https://github.com/kelindar/async) - concurrency patterns library using promises for Go
 * [kelindar/binary](https://github.com/kelindar/binary) - generic and fast binary serializer for go
 * [kelindar/tile](https://github.com/kelindar/tile) - 2D grid engine, built with data and cache friendly ways, includes pathfinding and observers
 * [kelindar/evolve](https://github.com/kelindar/evolve) - go implementation of a binary genetic algorithm with random binary crossover & mutation
