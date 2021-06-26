@@ -28,12 +28,14 @@ I'm a leader in tech, currently **Staff Engineer in Careem** working on experime
 * [kelindar/lua](https://github.com/kelindar/lua) - wrapper around LUA script executor for long-running scripts
 * [kelindar/tcp](https://github.com/kelindar/tcp) - simple TCP server in go
 * [kelindar/process](https://github.com/kelindar/process) - go library for process usage retrieval
+* [kelindar/smutex](github.com/kelindar/smutex) - simple sharded mutual exclusion in go
 * [emitter-io/address](https://github.com/emitter-io/address) - go library providing a set of utilities for dealing with network addressing
 * [emitter-io/stats](https://github.com/emitter-io/stats) - high-performance library for stats and metric aggregation
 * [emitter-io/config](https://github.com/emitter-io/config) - library for hierarchical config management
 
 🧪 **Experiments** in which I tried with various ideas
 
+* [kelindar/hashbench](https://github.com/kelindar/hashbench) - benchmarking various hash functions in go
 * [kelindar/etop](https://github.com/kelindar/etop) - command-line utility for emitter.io cluster status
 * [kelindar/spiral](https://github.com/kelindar/spiral) - procedurally generating a spiral galaxy in go
 * [kelindar/markov](https://github.com/kelindar/markov) - experimenting with markov-chain procgen in go
