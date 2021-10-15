@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Roman!
 
-I'm a leader in tech, currently **Staff Engineer in Careem** working on experimentation and optimization. Prior to Careem, I worked as Head of Data Science in AirAsia and as a Principal Engineer in Grab, the super app of South East Asia where we built Product Insights & Experimentation Platforms amongst other things. I also obtained a PhD in Computer Science and Human-Computer Interaction with Trinity College Dublin & IBM Research, and worked as an engineer at various successful companies in Europe, building things like online gaming platforms, autonomous helicopters, or particle/matter collision simulators!
+I love building stuff, currently working as a **Staff Engineer in Careem** on experimentation, optimization and machine learning platforms. Prior to Careem, I worked as Head of Data Science in AirAsia and as a Principal Engineer in Grab, the super app of South East Asia where we built Product Insights & Experimentation Platforms amongst other things. I also obtained a PhD in Computer Science and Human-Computer Interaction with Trinity College Dublin & IBM Research, and worked as an engineer at various successful companies in Europe, building things like online gaming platforms, autonomous helicopters, or particle/matter collision simulators!
 
 <p align="center">
     <img height="96" src="https://raw.githubusercontent.com/kelindar/kelindar/master/.assets/gopher.gif">
@@ -57,5 +57,13 @@ I'm a leader in tech, currently **Staff Engineer in Careem** working on experime
 * [share](https://github.com/kelindar/emitter-share) - how to use shared subscriptions in emitter
 * [iss](https://github.com/kelindar/iss) - tracking international space station in real-time
 * [presence](https://github.com/kelindar/demo-presence) - demo of the channel presence for emitter
+
+📚 **Blogs & Papers** I have written in the past
+
+* [Technical Blog](https://rpc.io/) - My random blog posts around experimentation, performance and open source
+* [Ph.D Thesis](http://www.tara.tcd.ie/handle/2262/82892) - Supporting visual diagnosis of performance problems in multi-core and parallel software
+* [SIGCHI'14 Paper](https://dl.acm.org/doi/10.1145/2556288.2557350) - Design considerations for parallel performance tools
+* [IEEE Journal Paper](https://ieeexplore.ieee.org/document/7386691/) - Parallel Performance Problems on Shared-Memory Multicore Systems: Taxonomy and Observation
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kelindar.kelindar)
