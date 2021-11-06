@@ -20,6 +20,7 @@ I love building stuff, currently working as a **Staff Engineer in Careem** on ex
 * [kelindar/binary](https://github.com/kelindar/binary) - generic and fast binary serializer for go
 * [kelindar/bitmap](https://github.com/kelindar/bitmap) - zero-allocation dense bitmap index for go
 * [kelindar/column](https://github.com/kelindar/column) - columnar in-memory db (structures-of-arrays) with querying and indexing in go
+* [kelindar/intmap](https://github.com/kelindar/intmap) - fast uint32-to-uint32 hash map, about 20-50% faster than Go map
 * [kelindar/tile](https://github.com/kelindar/tile) - 2D grid engine, built with data and cache friendly ways, includes pathfinding and observers
 * [kelindar/evolve](https://github.com/kelindar/evolve) - go implementation of a binary genetic algorithm with random binary crossover & mutation
 * [kelindar/loader](https://github.com/kelindar/loader) - go library that allows for downloading things from a URL (http, s3, ...)
