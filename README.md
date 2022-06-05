@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Roman!
 
-I love building stuff, currently working as a **Staff Engineer in Careem** on experimentation, optimization and machine learning platforms. Prior to Careem, I worked as Head of Data Science in AirAsia and as a Principal Engineer in Grab, the super app of South East Asia where we built Product Insights & Experimentation Platforms amongst other things. I also obtained a PhD in Computer Science and Human-Computer Interaction with Trinity College Dublin & IBM Research, and worked as an engineer at various successful companies in Europe, building things like online gaming platforms, autonomous helicopters, or particle/matter collision simulators!
+I love building stuff, currently working as a **Principal Engineer in Careem** on experimentation, optimization and machine learning platforms. Prior to Careem, I worked as Head of Data Science in AirAsia and as a Principal Engineer in Grab, the super app of South East Asia where we built Product Insights & Experimentation Platforms amongst other things. I also obtained a PhD in Computer Science and Human-Computer Interaction with Trinity College Dublin & IBM Research, and worked as an engineer at various successful companies in Europe, building things like online gaming platforms, autonomous helicopters, or particle/matter collision simulators!
 
 <p align="center">
     <img height="96" src="https://raw.githubusercontent.com/kelindar/kelindar/master/.assets/gopher.gif">
@@ -17,32 +17,33 @@ I love building stuff, currently working as a **Staff Engineer in Careem** on ex
 📦 **Golang Libraries** I made to help me in building software faster or explore a certain idea
 
 * [kelindar/async](https://github.com/kelindar/async) - concurrency patterns library using promises for Go
-* [kelindar/binary](https://github.com/kelindar/binary) - generic and fast binary serializer for go
-* [kelindar/bitmap](https://github.com/kelindar/bitmap) - zero-allocation dense bitmap index for go
-* [kelindar/column](https://github.com/kelindar/column) - columnar in-memory db (structures-of-arrays) with querying and indexing in go
+* [kelindar/binary](https://github.com/kelindar/binary) - generic and fast binary serializer for Go
+* [kelindar/bitmap](https://github.com/kelindar/bitmap) - zero-allocation dense bitmap index for Go
+* [kelindar/column](https://github.com/kelindar/column) - columnar in-memory db (structures-of-arrays) with querying and indexing in Go
 * [kelindar/intmap](https://github.com/kelindar/intmap) - fast uint32-to-uint32 hash map, about 20-50% faster than Go map
 * [kelindar/tile](https://github.com/kelindar/tile) - 2D grid engine, built with data and cache friendly ways, includes pathfinding and observers
-* [kelindar/evolve](https://github.com/kelindar/evolve) - go implementation of a binary genetic algorithm with random binary crossover & mutation
-* [kelindar/loader](https://github.com/kelindar/loader) - go library that allows for downloading things from a URL (http, s3, ...)
-* [kelindar/ecs](https://github.com/kelindar/ecs) - high-performance entity component system in pure go
-* [kelindar/event](https://github.com/kelindar/event) - simple internal event bus for go applications
+* [kelindar/evolve](https://github.com/kelindar/evolve) - Go implementation of a binary genetic algorithm with random binary crossover & mutation
+* [kelindar/loader](https://github.com/kelindar/loader) - Go library that allows for downloading things from a URL (http, s3, ...)
+* [kelindar/ecs](https://github.com/kelindar/ecs) - high-performance entity component system in pure Go
+* [kelindar/event](https://github.com/kelindar/event) - simple internal event bus for Go applications
 * [kelindar/lua](https://github.com/kelindar/lua) - wrapper around LUA script executor for long-running scripts
-* [kelindar/tcp](https://github.com/kelindar/tcp) - simple TCP server in go
-* [kelindar/process](https://github.com/kelindar/process) - go library for process usage retrieval
-* [kelindar/smutex](https://github.com/kelindar/smutex) - simple sharded mutual exclusion in go
+* [kelindar/tcp](https://github.com/kelindar/tcp) - simple TCP server in Go
+* [kelindar/process](https://github.com/kelindar/process) - Go library for process usage retrieval
+* [kelindar/simd](https://github.com/kelindar/simd) - auto-vectorized SIMD math functions for Go
+* [kelindar/smutex](https://github.com/kelindar/smutex) - simple sharded mutual exclusion in Go
 * [kelindar/xxrand](https://github.com/kelindar/xxrand) - XXH3-Based Pseudorandom Number Generator
 * [kelindar/iostream](https://github.com/kelindar/iostream) - Simple binary reader and writer for io.Reader/io.Writer streams
 * [kelindar/simplex](https://github.com/kelindar/simplex) - Simplex noise in Go
-* [emitter-io/address](https://github.com/emitter-io/address) - go library providing a set of utilities for dealing with network addressing
+* [emitter-io/address](https://github.com/emitter-io/address) - Go library providing a set of utilities for dealing with network addressing
 * [emitter-io/stats](https://github.com/emitter-io/stats) - high-performance library for stats and metric aggregation
 * [emitter-io/config](https://github.com/emitter-io/config) - library for hierarchical config management
 
 🧪 **Experiments** in which I tried with various ideas
 
-* [kelindar/hashbench](https://github.com/kelindar/hashbench) - benchmarking various hash functions in go
+* [kelindar/hashbench](https://github.com/kelindar/hashbench) - benchmarking various hash functions in Go
 * [kelindar/etop](https://github.com/kelindar/etop) - command-line utility for emitter.io cluster status
-* [kelindar/spiral](https://github.com/kelindar/spiral) - procedurally generating a spiral galaxy in go
-* [kelindar/markov](https://github.com/kelindar/markov) - experimenting with markov-chain procgen in go
+* [kelindar/spiral](https://github.com/kelindar/spiral) - procedurally generating a spiral galaxy in Go
+* [kelindar/markov](https://github.com/kelindar/markov) - experimenting with markov-chain procgen in Go
 * [kelindar/pmml2lua](https://github.com/kelindar/pmml2lua) - trying to convert PMML decision trees into LUA code
 * [kelindar/spike-box](https://github.com/kelindar/spike-box) - what if we can data-bind js/DOM transparently over the network?
 * [kelindar/misakai-baker](https://github.com/kelindar/misakai-baker) - static site generator for C# / .Net people
