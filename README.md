@@ -40,6 +40,7 @@ I love building stuff, currently working as a **Principal Engineer in Careem** o
 
 🧪 **Experiments** in which I tried with various ideas
 
+* [kelindar/gocc](https://github.com/kelindar/gocc) - tool to transpile C to Go assembly using clang & objdump
 * [kelindar/hashbench](https://github.com/kelindar/hashbench) - benchmarking various hash functions in Go
 * [kelindar/etop](https://github.com/kelindar/etop) - command-line utility for emitter.io cluster status
 * [kelindar/spiral](https://github.com/kelindar/spiral) - procedurally generating a spiral galaxy in Go
