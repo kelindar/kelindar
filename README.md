@@ -22,6 +22,7 @@ I love building stuff, currently working as a **Principal Engineer in Careem** o
 * [kelindar/column](https://github.com/kelindar/column) - columnar in-memory db (structures-of-arrays) with querying and indexing in Go
 * [kelindar/intmap](https://github.com/kelindar/intmap) - fast uint32-to-uint32 hash map, about 20-50% faster than Go map
 * [kelindar/tile](https://github.com/kelindar/tile) - 2D grid engine, built with data and cache friendly ways, includes pathfinding and observers
+* [kelindar/timeline](https://github.com/kelindar/timeline) - Scheduler of events for near real-time systems in Go
 * [kelindar/evolve](https://github.com/kelindar/evolve) - Go implementation of a binary genetic algorithm with random binary crossover & mutation
 * [kelindar/loader](https://github.com/kelindar/loader) - Go library that allows for downloading things from a URL (http, s3, ...)
 * [kelindar/ecs](https://github.com/kelindar/ecs) - high-performance entity component system in pure Go
