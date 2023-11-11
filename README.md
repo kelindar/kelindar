@@ -20,6 +20,7 @@ I love building stuff, currently working as a **Principal Engineer in Careem** o
 * [kelindar/binary](https://github.com/kelindar/binary) - generic and fast binary serializer for Go
 * [kelindar/bitmap](https://github.com/kelindar/bitmap) - zero-allocation dense bitmap index for Go
 * [kelindar/column](https://github.com/kelindar/column) - columnar in-memory db (structures-of-arrays) with querying and indexing in Go
+* [kelindar/goap](https://github.com/kelindar/goap) - goal oriented action planning library in Go
 * [kelindar/intmap](https://github.com/kelindar/intmap) - fast uint32-to-uint32 hash map, about 20-50% faster than Go map
 * [kelindar/tile](https://github.com/kelindar/tile) - 2D grid engine, built with data and cache friendly ways, includes pathfinding and observers
 * [kelindar/timeline](https://github.com/kelindar/timeline) - Scheduler of events for near real-time systems in Go
