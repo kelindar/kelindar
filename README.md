@@ -17,6 +17,7 @@ I love building stuff, currently working as a **Principal Engineer in Careem** o
 📦 **Golang Libraries** I made to help me in building software faster or explore a certain idea
 
 * [kelindar/async](https://github.com/kelindar/async) - concurrency patterns library using promises for Go
+* [kelindar/approx](https://github.com/kelindar/approx) - probabilistic data structures (e.g. morris counting, count-min sketch, topk) in Go
 * [kelindar/binary](https://github.com/kelindar/binary) - generic and fast binary serializer for Go
 * [kelindar/bitmap](https://github.com/kelindar/bitmap) - zero-allocation dense bitmap index for Go
 * [kelindar/column](https://github.com/kelindar/column) - columnar in-memory db (structures-of-arrays) with querying and indexing in Go
