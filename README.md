@@ -33,7 +33,7 @@ I love building stuff, currently working as a **Principal Engineer in Careem** o
 * [kelindar/lua](https://github.com/kelindar/lua) - wrapper around LUA script executor for long-running scripts
 * [kelindar/tcp](https://github.com/kelindar/tcp) - simple TCP server in Go
 * [kelindar/process](https://github.com/kelindar/process) - Go library for process usage retrieval
-* [kelindar/search](https://github.com/kelindar/search) - Go library for embedded vector search and semantic embeddings and llama.cpp
+* [kelindar/search](https://github.com/kelindar/search) - Go library for embedded vector search and semantic embeddings with llama.cpp
 * [kelindar/simd](https://github.com/kelindar/simd) - auto-vectorized SIMD math functions for Go
 * [kelindar/smutex](https://github.com/kelindar/smutex) - simple sharded mutual exclusion in Go
 * [kelindar/xxrand](https://github.com/kelindar/xxrand) - XXH3-Based Pseudorandom Number Generator
