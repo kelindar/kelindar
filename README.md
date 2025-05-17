@@ -39,6 +39,7 @@ I've spent my career building systems that scale — sometimes even as planned. 
 * [kelindar/xxrand](https://github.com/kelindar/xxrand) - XXH3-Based Pseudorandom Number Generator
 * [kelindar/iostream](https://github.com/kelindar/iostream) - Simple binary reader and writer for io.Reader/io.Writer streams
 * [kelindar/simplex](https://github.com/kelindar/simplex) - Simplex noise in Go
+* [kelindar/ultima-sdk](https://github.com/kelindar/ultima-sdk) - Modern, idiomatic Go SDK for reading Ultima Online client files (MUL/UOP)
 * [emitter-io/address](https://github.com/emitter-io/address) - Go library providing a set of utilities for dealing with network addressing
 * [emitter-io/stats](https://github.com/emitter-io/stats) - high-performance library for stats and metric aggregation
 * [emitter-io/config](https://github.com/emitter-io/config) - library for hierarchical config management
