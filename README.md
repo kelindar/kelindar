@@ -31,6 +31,7 @@ I've spent my career building systems that scale — sometimes even as planned. 
 * [kelindar/ecs](https://github.com/kelindar/ecs) - high-performance entity component system in pure Go
 * [kelindar/event](https://github.com/kelindar/event) - simple internal event bus for Go applications
 * [kelindar/lua](https://github.com/kelindar/lua) - wrapper around LUA script executor for long-running scripts
+* [kelindar/tales](https://github.com/kelindar/tales) - multi-actor event logging in S3  in Go
 * [kelindar/tcp](https://github.com/kelindar/tcp) - simple TCP server in Go
 * [kelindar/process](https://github.com/kelindar/process) - Go library for process usage retrieval
 * [kelindar/search](https://github.com/kelindar/search) - Go library for embedded vector search and semantic embeddings with llama.cpp
@@ -39,9 +40,9 @@ I've spent my career building systems that scale — sometimes even as planned. 
 * [kelindar/smutex](https://github.com/kelindar/smutex) - simple sharded mutual exclusion in Go
 * [kelindar/xxrand](https://github.com/kelindar/xxrand) - XXH3-Based Pseudorandom Number Generator
 * [kelindar/iostream](https://github.com/kelindar/iostream) - Simple binary reader and writer for io.Reader/io.Writer streams
-* [kelindar/simplex](https://github.com/kelindar/simplex) - Simplex noise in Go
-* [kelindar/ultima-sdk](https://github.com/kelindar/ultima-sdk) - Modern, idiomatic Go SDK for reading Ultima Online client files (MUL/UOP)
-* [emitter-io/address](https://github.com/emitter-io/address) - Go library providing a set of utilities for dealing with network addressing
+* [kelindar/simplex](https://github.com/kelindar/simplex) - simplex noise in Go
+* [kelindar/ultima-sdk](https://github.com/kelindar/ultima-sdk) - modern, idiomatic Go SDK for reading Ultima Online client files (MUL/UOP)
+* [emitter-io/address](https://github.com/emitter-io/address) - library providing a set of utilities for dealing with network addressing
 * [emitter-io/stats](https://github.com/emitter-io/stats) - high-performance library for stats and metric aggregation
 * [emitter-io/config](https://github.com/emitter-io/config) - library for hierarchical config management
 
