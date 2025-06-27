@@ -35,6 +35,7 @@ I've spent my career building systems that scale — sometimes even as planned. 
 * [kelindar/tales](https://github.com/kelindar/tales) - multi-actor event logging in S3  in Go
 * [kelindar/tcp](https://github.com/kelindar/tcp) - simple TCP server in Go
 * [kelindar/process](https://github.com/kelindar/process) - Go library for process usage retrieval
+* [kelindar/roaring](https://github.com/kelindar/roaring) - Implementation of roaring bitmaps, backed by dense SIMD containers
 * [kelindar/search](https://github.com/kelindar/search) - Go library for embedded vector search and semantic embeddings with llama.cpp
 * [kelindar/s3](https://github.com/kelindar/s3) - Slim AWS S3 client library for Go that implements the standard fs.FS interface
 * [kelindar/simd](https://github.com/kelindar/simd) - auto-vectorized SIMD math functions for Go
