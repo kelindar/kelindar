@@ -1,4 +1,4 @@
-### Hey 👋, I'm Roman!
+### Hey 👋, I'm Roman! 
 
 I've spent my career building systems that scale — sometimes even as planned. At Careem (Uber Inc.), I led the architecture for Data & AI, building platforms for machine learning, experimentation, and event processing that supported operations at scale. Before that, I served as Head of Data Science at AirAsia, where I worked to make data-driven decisions more accessible across the organization. At Grab, Southeast Asia's superapp, I worked on experimentation platforms and was the architect for transport and driver experience, helping millions of rides happen more efficiently. My Ph.D. from Trinity College Dublin & IBM Research focused on debugging parallel systems and visualizing performance problems — a mix of computer science and psychology that taught me patience (and the limits of it). Earlier in my career, I worked on everything from autonomous helicopters to particle simulators, building systems that were occasionally more reliable than their creators.
 
@@ -82,4 +82,4 @@ I've spent my career building systems that scale — sometimes even as planned. 
 * [IEEE Journal Paper](https://ieeexplore.ieee.org/document/7386691/) - Parallel Performance Problems on Shared-Memory Multicore Systems: Taxonomy and Observation
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kelindar.kelindar)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kelindar.kelindar) ![GitHub User's stars](https://img.shields.io/github/stars/kelindar)
